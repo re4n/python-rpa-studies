@@ -1,0 +1,10 @@
+[TIME: 22:55:42] -- Coin: Bitcoin |  C Price: $30,153.15 | 24Hr %: 4.76% | 7D %: 20.30%
+[TIME: 22:55:42] -- Coin: Ethereum |  C Price: $1,917.69 | 24Hr %: 6.11% | 7D %: 16.45%
+[TIME: 22:55:42] -- Coin: Tether |  C Price: $1.00 | 24Hr %: 0.00% | 7D %: 0.03%
+[TIME: 22:55:42] -- Coin: BNB |  C Price: $251.20 | 24Hr %: 1.01% | 7D %: 5.34%
+[TIME: 22:55:42] -- Coin: USD Coin |  C Price: $0.9999 | 24Hr %: 0.01% | 7D %: 0.00%
+[TIME: 22:55:42] -- Coin: XRP |  C Price: $0.5071 | 24Hr %: 2.52% | 7D %: 6.12%
+[TIME: 22:55:42] -- Coin: Cardano |  C Price: $0.297 | 24Hr %: 7.60% | 7D %: 13.21%
+[TIME: 22:55:42] -- Coin: Dogecoin |  C Price: $0.06836 | 24Hr %: 7.36% | 7D %: 14.03%
+[TIME: 22:55:42] -- Coin: Solana |  C Price: $17.59 | 24Hr %: 3.98% | 7D %: 21.39%
+[TIME: 22:55:42] -- Coin: TRON |  C Price: $0.07311 | 24Hr %: 2.99% | 7D %: 2.35%
